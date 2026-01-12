@@ -49,10 +49,15 @@ Seaborn
 Scikit-learn
 
 📂 Project Structure
+
 Big-Sales-Project/
+
 │
+
 ├── Big Sales.ipynb        # Main Jupyter Notebook
+
 ├── README.md              # Project documentation
+
 └── dataset/               # Sales dataset (if included)
 
 📊 Dataset Description
